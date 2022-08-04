@@ -1,0 +1,63 @@
+html{
+  background-color: #333; 
+}
+.Main{
+  display: flex;
+  flex-direction: column;
+  align-items: center ;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+.video.touched{
+  border-color: red !important;
+}
+.video{
+  border: 10px dashed transparent;
+
+  width: 500px;
+  height: 400px;
+
+  
+}
+img.load{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 20px;
+  margin: 0 auto;
+  z-index: 999;
+}
+.loadHidden{
+  display: none;
+  visibility: hidden;
+
+}
+.loadAppear{
+  visibility: visible;
+ 
+
+
+}
+
+.control {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-Buoc{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid salmon;
+    border-radius: 999px;
+}
+.clock{
+  margin-top: 20px;
+  color: #fff;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
