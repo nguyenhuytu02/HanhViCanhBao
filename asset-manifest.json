@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nguyenhuytu02/HanhViCanhBao.git/static/css/main.09ec7704.css",
-    "main.js": "/nguyenhuytu02/HanhViCanhBao.git/static/js/main.a500f9e5.js",
-    "static/js/787.6af6cc80.chunk.js": "/nguyenhuytu02/HanhViCanhBao.git/static/js/787.6af6cc80.chunk.js",
-    "static/media/soundLayMay.mp4": "/nguyenhuytu02/HanhViCanhBao.git/static/media/soundLayMay.8b9001a075779e802712.mp4",
-    "static/media/pewpew.mp3": "/nguyenhuytu02/HanhViCanhBao.git/static/media/pewpew.c354ff5d7a6824e157d1.mp3",
-    "static/media/het.mp3": "/nguyenhuytu02/HanhViCanhBao.git/static/media/het.992245a83575748321d2.mp3",
-    "static/media/thanglung.mp3": "/nguyenhuytu02/HanhViCanhBao.git/static/media/thanglung.6b6a4e2afd565c2eb98d.mp3",
-    "static/media/hey_sondn.mp3": "/nguyenhuytu02/HanhViCanhBao.git/static/media/hey_sondn.8c2f8e9b7d790cbebde1.mp3",
-    "static/media/load.gif": "/nguyenhuytu02/HanhViCanhBao.git/static/media/load.c982a7243e7012b3e237.gif",
-    "index.html": "/nguyenhuytu02/HanhViCanhBao.git/index.html",
-    "main.09ec7704.css.map": "/nguyenhuytu02/HanhViCanhBao.git/static/css/main.09ec7704.css.map",
-    "main.a500f9e5.js.map": "/nguyenhuytu02/HanhViCanhBao.git/static/js/main.a500f9e5.js.map",
-    "787.6af6cc80.chunk.js.map": "/nguyenhuytu02/HanhViCanhBao.git/static/js/787.6af6cc80.chunk.js.map"
+    "main.css": "/HanhViCanhBao/static/css/main.09ec7704.css",
+    "main.js": "/HanhViCanhBao/static/js/main.5442055a.js",
+    "static/js/787.6af6cc80.chunk.js": "/HanhViCanhBao/static/js/787.6af6cc80.chunk.js",
+    "static/media/soundLayMay.mp4": "/HanhViCanhBao/static/media/soundLayMay.8b9001a075779e802712.mp4",
+    "static/media/pewpew.mp3": "/HanhViCanhBao/static/media/pewpew.c354ff5d7a6824e157d1.mp3",
+    "static/media/het.mp3": "/HanhViCanhBao/static/media/het.992245a83575748321d2.mp3",
+    "static/media/thanglung.mp3": "/HanhViCanhBao/static/media/thanglung.6b6a4e2afd565c2eb98d.mp3",
+    "static/media/hey_sondn.mp3": "/HanhViCanhBao/static/media/hey_sondn.8c2f8e9b7d790cbebde1.mp3",
+    "static/media/load.gif": "/HanhViCanhBao/static/media/load.c982a7243e7012b3e237.gif",
+    "index.html": "/HanhViCanhBao/index.html",
+    "main.09ec7704.css.map": "/HanhViCanhBao/static/css/main.09ec7704.css.map",
+    "main.5442055a.js.map": "/HanhViCanhBao/static/js/main.5442055a.js.map",
+    "787.6af6cc80.chunk.js.map": "/HanhViCanhBao/static/js/787.6af6cc80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09ec7704.css",
-    "static/js/main.a500f9e5.js"
+    "static/js/main.5442055a.js"
   ]
 }
